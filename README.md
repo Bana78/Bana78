@@ -22,10 +22,10 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 
 ## 🎓 Education & Research Profile
 
-Master’s degree in Computer Engineering
-Research experience in scalable algorithms and distributed computing
-Published work in data mining optimization using Apache Spark
-Currently exploring Generative AI and LLM-based systems
+- Master’s degree in Computer Engineering
+- Research experience in scalable algorithms and distributed computing
+- Published work in data mining optimization using Apache Spark
+- Currently exploring Generative AI and LLM-based systems
 
 ---
 
