@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Computer Engineering graduate with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Big Data Analytics.
-I am passionate about building scalable AI solutions, solving data mining challenges, and exploring Generative AI and Large Language Models (LLMs). My interests also extend to bioinformatics and data-driven research.
+I hold a Master of Science in Computer Engineering with strong interest in Artificial Intelligence, Machine Learning, Data Science, and Big Data Analytics. I focus on building scalable AI systems, solving data mining problems, and exploring Generative AI and Large Language Models (LLMs), with additional interest in bioinformatics and data-driven research.
 
 ---
 
-## 🧠 About Me
+## 🎓 Education & Research Profile
 
-- 🎓 Master’s degree in Computer Engineering  
-- 📊 Focus: AI, Machine Learning, Data Science, Big Data  
-- 🔬 Research experience in scalable algorithms and distributed computing  
-- 📚 Published work in data mining optimization using Apache Spark  
-- 🚀 Currently exploring Generative AI and LLM-based systems  
+Master’s degree in Computer Engineering
+Research experience in scalable algorithms and distributed computing
+Published work in data mining optimization using Apache Spark
+Currently exploring Generative AI and LLM-based systems
 
 ---
 
