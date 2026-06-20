@@ -82,14 +82,42 @@ I am passionate about building scalable AI systems, working on data mining probl
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Courses & Certifications
 
-- Generative AI (LLMs, Transformers, RAG)  
-- AI Agents and Autonomous Systems  
-- Advanced Bioinformatics  
-- Scalable Machine Learning Systems  
+### 🎓 Bioinformatics Diploma (In Progress)
+- Introduction to Bioinformatics  
+- NGS Analysis (Next-Generation Sequencing)  
+- Deep Learning in Bioinformatics  
+- Multi-Omics Data Analysis  
 
 ---
+
+### 🤖 Generative AI Training (In Progress)
+- Large Language Models (LLMs)  
+- Transformer Architectures  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- AI Agents and Generative AI Applications  
+
+---
+
+### 📊 Certified Data Scientist Professional
+EPSILON AI Institute — Egypt  
+- Data preprocessing and feature engineering  
+- Machine learning pipelines  
+- Python programming for data science  
+- Model evaluation and deployment  
+
+---
+
+### 🧠 Advanced Machine Learning & Deep Learning Training
+Markov Academy — Egypt  
+- Deep neural networks (DNNs)  
+- CNNs and RNNs  
+- Regularization and optimization techniques  
+- Transfer learning (ResNet and similar models)  
+---
+
 ## 📌 Academic & Practical Experience
 
 I have completed several academic and practical projects during my studies and training in:
