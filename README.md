@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there
 
-I am a Computer Engineering graduate specializing in Artificial Intelligence, Machine Learning, and Big Data Analytics.
-I am passionate about building scalable AI systems, working on data mining problems, and exploring Generative AI and Large Language Models (LLMs).
+## About Me
+
+I hold a Master's degree in Computer Science with a strong background in Artificial Intelligence, Machine Learning, Data Science, and Big Data Analytics.
+
+My research interests include Data Mining, Reliable AI, Large Language Models (LLMs), Generative AI, Bioinformatics, and scalable data-driven systems. Through academic research and practical projects, I have gained experience in machine learning, distributed computing, and big data processing using Apache Spark.
+
+I am passionate about leveraging AI to solve real-world challenges and advancing research at the intersection of intelligent systems and data-intensive applications.
 
 ---
 
@@ -139,8 +144,9 @@ Some of these projects were part of coursework, research training, and applied a
 
 - GitHub: https://github.com/Bana78  
 - Email: byanr78@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+  
 
 ---
 
-⭐ Open to research collaboration in AI, Data Science, and Big Data.
+⭐ Open to research collaborations, research fellowships, and PhD opportunities in AI, Data Science, Big Data, and Bioinformatics.
+
