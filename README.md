@@ -29,18 +29,7 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 
 ---
 
-## 🎯 Research Interests
-
-- Artificial Intelligence  
-- Machine Learning & Deep Learning  
-- Data Mining & Big Data Analytics  
-- Generative AI & LLMs  
-- Computer Vision  
-- Bioinformatics & Multi-Omics Data Analysis  
-
----
-
-## 📊 Featured Project
+## 📊 Master’s Thesis
 
 ### 🔹 ASCF: Optimization of Apriori Algorithm Using Spark-Based Cuckoo Filter
 - Designed a scalable frequent itemset mining framework  
@@ -52,6 +41,17 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 
 ---
 
+## 🎯 Research Interests
+
+- Artificial Intelligence  
+- Machine Learning & Deep Learning  
+- Data Mining & Big Data Analytics  
+- Generative AI & LLMs  
+- Computer Vision  
+- Bioinformatics & Multi-Omics Data Analysis
+  
+---
+
 ## 🧰 Technical Skills
 
 **Programming:** Python, R, SQL, C++, Java  
@@ -59,15 +59,7 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 **Deep Learning:** PyTorch, TensorFlow, Keras  
 **Big Data:** Apache Spark, Distributed Systems  
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Bioinformatics:** BioPython, NGS Analysis  
-
----
-
-## 📚 Publications
-
-- ASCF: Optimization of Apriori Algorithm Using Spark-Based Cuckoo Filter Structure  
-  International Journal of Intelligent Systems  
-  DOI: 10.1155/2024/8781318  
+**Bioinformatics:** BioPython, NGS Analysis
 
 ---
 
@@ -88,8 +80,6 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 - Deep Learning in Bioinformatics  
 - Multi-Omics Data Analysis  
 
----
-
 ### 🤖 Generative AI Training (In Progress)
 - Large Language Models (LLMs)  
 - Transformer Architectures  
@@ -97,33 +87,11 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 - Retrieval-Augmented Generation (RAG)  
 - AI Agents and Generative AI Applications  
 
----
-
 ### 📊 Certified Data Scientist Professional
 EPSILON AI Institute — Egypt  
-- Data preprocessing and feature engineering  
-- Machine learning pipelines  
-- Python programming for data science  
-- Model evaluation and deployment  
-
----
 
 ### 🧠 Advanced Machine Learning & Deep Learning Training
 Markov Academy — Egypt  
-- Deep neural networks (DNNs)  
-- CNNs and RNNs  
-- Regularization and optimization techniques  
-- Transfer learning (ResNet and similar models)  
----
-
-## 📌 Academic & Practical Experience
-
-I have completed several academic and practical projects during my studies and training in:
-- Deep Learning
-- Data Science
-- Bioinformatics
-
-Some of these projects were part of coursework, research training, and applied assignments.
 ---
 
 ## 🌍 Languages
