@@ -74,24 +74,24 @@ I hold a Master of Science in Computer Engineering with strong interest in Artif
 
 ## 📚 Courses & Certifications
 
-### 🎓 Bioinformatics Diploma (In Progress)
+## Bioinformatics Diploma (In Progress)
 - Introduction to Bioinformatics  
 - NGS Analysis (Next-Generation Sequencing)  
 - Deep Learning in Bioinformatics  
 - Multi-Omics Data Analysis  
 
-### 🤖 Generative AI Training (In Progress)
+## Generative AI Training (In Progress)
 - Large Language Models (LLMs)  
 - Transformer Architectures  
 - Prompt Engineering  
 - Retrieval-Augmented Generation (RAG)  
 - AI Agents and Generative AI Applications  
 
-### 📊 Certified Data Scientist Professional
+## Certified Data Scientist Professional
 EPSILON AI Institute — Egypt  
+## Advanced Machine Learning & Deep Learning Training 
+Markov Academy - Egypt
 
-### 🧠 Advanced Machine Learning & Deep Learning Training
-Markov Academy — Egypt  
 ---
 
 ## 🌍 Languages
